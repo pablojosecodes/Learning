@@ -1,152 +1,293 @@
-Source: https://ocw.mit.edu/courses/21a-461-what-is-capitalism-fall-2021/pages/readings/
+### What is Capitalism? That is the question
 
-Session 2: Expanding Inequality and Contemporary Crises
+Overarching points
 
-- [ ] Piketty, Thomas. “Introduction.” In Capital in the Twenty-First Century. Translated by Arthur Goldhammer. Belknap Press, 2017. ISBN: 780674979857. [Preview with Google Books]
 
-- [ ] Walley, Christine J. “Deindustrializing Chicago: A Daughter’s Story.” Chapter 6 in The Insecure American: How We Got Here & What We Should Do About It. Edited by Hugh Gusterson & Catherine Besteman. University of California Press, 2009. ISBN: 780520259713. [Preview with Google Books]
 
-Explore website: Southeast Chicago Archive & Storytelling Project.
+1. Think of economics in a more expansive way (referencing older models of political economy (also social, cultural, and environmental)
+2. Think about the evidence for our views- how do we judge what is good information or knowledge? What role does our media ecologies play in shaping our views? Think more critically and in-depth through discussions + debates
+3. Big and small picture
 
-Session 3: Thinking about Capitalism and Information Ecologies I
+What is anthropology?
 
-- [ ] McIntosh, Janet. “The Sinister Signs of QAnon: Interpretive Agency and Paranoid Truths in Alt-right Oracles.” Anthropology Today 38, no. 1 (2012): 8–12.
 
-- [ ] Rapacioli, Paul. “Christmas Lights, Riots, and the Fall of Utopia,” “Trump, Eisenhower, and the Values of Success,” “Refugees and the Alternative Media,” “Mutation,” “The Psychology and Economics of News,” and “Entering the Media of Post-Truth.” Chapters 1–6 in Good Sweden, Bad Sweden: The Use and Abuse of Swedish Values in a Post-Truth World. Volante, 2018. ISBN: 789188659231. 
 
-Session 4: Thinking about Capitalism and Information Ecologies II
+* Very interesting field of study that explores how people understand, relate to, and act in the world.
 
-- [ ] Otis, Cindy L. “How to Spot Fake News Articles,” “73% of People Say They Don’t Understand Polling, and Other Fake Stats,” “Your Eyes Are Lying: Spotting Fake Photos and Videos,” and “Memes Aren’t News and Other Social-Media Tips.” Chapters 17–20 in True or False: A CIA Analyst’s Guide to Spotting Fake News. Feiwel & Friends, 2020. ISBN: 781250239495. 
 
-- [ ] Simonite, Tom. “A New Tool Shows How Google Results Vary around the World.” Wired, July 11, 2021.
+### Debating inequality
 
-Check out the comparative search engine Search Atlas.
+Two angles used in class
 
-Theories of Capitalism
-Session 5: Nineteenth-Century Political Economy
 
-- [ ] Smith, Adam. “Introduction and Plan of the Work,” “Of the Principle Which Gives Occasion to the Division of Labour,” “That the Division of Labour is Limited by the Extent of the Market,” “Of the Origin and Use of Money,” and “Of the Real and Nominal Price of Commodities, or of Their Price in Labour, and Their Price in Money.” Chapters 1–5 in An Inquiry into the Nature and Causes of the Wealth of Nations: A Selected Edition. Edited with an introduction and commentary by Kathryn Sutherland. Oxford University Press, 1993. ISBN: 9780192817969.
 
-- [ ] Marx, Karl, and Friedrich Engels. The Communist Manifesto.  International Publishers Co., 2014. ISBN: 780717802418.
+1. Wide angle- theories + datasets
+2. Close up- ethnographic focus on people’s everyday lives + experiences
 
-Background reading (not required):
+Expanding economic inequality
 
-- [ ] Smith, Adam. “Introduction.” In An Inquiry into the Nature and Causes of the Wealth of Nations: A Selected Edition. Edited with an introduction and commentary by Kathryn Sutherland. Oxford University Press, 1993. ISBN: 9780192817969.
 
-Session 6: Capitalism and “Culture”
 
-- [ ] Weber, Max. “Class, Status, Party.” Chapter 7 in From Max Weber: Essays in Sociology. Translated, edited, with an Introduction by H.H. Gerth and C. Wright Mills. Routledge, 2009. ISBN: 780415482691. [Preview with Google Books]
+* How much of a problem is it + how concerning? What is the evidence?
+* What are the reasons causing it?
 
-- [ ] Bourdieu, Pierre. “The Forms of Capital.” Chapter 1 in The Handbook of Theory and Research for the Sociology of Education. Edited by John G. Richardson. Greenwood, 1986. ISBN: 9780313235290.
+Some facts
 
-- [ ] Ortner, Sherry B. “Reading America: Preliminary Notes on Class and Culture.” Chapter 9 in Recapturing Anthropology: Working in the Present. Edited by Richard G. Fox. School of American Research Press, 1991. ISBN: 780933452787. (You can skip the section called “Point of Entry: Class and Culture in America.”)
 
-Session 7: Debating Capitalism after World War II
 
-- [ ] Hayek, F.A. “Individualism: True or False.” Chapter 1 in Individualism and Economic Order. University of Chicago Press,1996. ISBN: 780226320939. [Preview with Google Books]
+* 1929-2018, 
+    * share of all pre-tax national income in the US flowing to top 10% went from 25% -> 47%
+    * National income to top 1%: 11% -> 19%
+    * Total income to bottom 50%: 20% -> 14%
 
-- [ ] Polanyi, Karl. “Societies and Economic Systems,” “Evolution of the Market Pattern,” “The Self-Regulating Market and the Fictitious Commodities: Labor, Land, and Money,” “Market and Man,” and “Freedom in a Complex Society.” Chapters 4–6, 14, and 21 in The Great Transformation. Beacon Press, 2001. ISBN: 9780807056424. 
+Manufacturing
 
-Recommended:
 
-- [ ] Kuttner, Robert. “The Man From Red Vienna.” New York Review of Books, December 21, 2017.
 
-- [ ] Rand, Ayn. “What is Capitalism?” Chapter 1 in Capitalism: The Unknown Ideal. Signet, 1986. ISBN: 780451147950. [Preview with Google Books]
+* 1960: ⅓ in manufacturing, 62% unionized
+* 2010: ⅛ in manufacturing, 13.6% unionized
 
-- [ ] Nasar, Sylvia. “Friedrich von Hayek Dies at 92; An Early Free-Market Economist,” New York Times, March 24, 1992.
+Temp work
 
-Session 8: Globalized Capitalism and Racial Capitalism
 
-- [ ] Harvey, David. “Fordism” and “From Fordism to Flexible Accumulation.” Chapters 8 and 9 in The Condition of Postmodernity. Wiley-Blackwell, 1991. ISBN: 780631162940. 
 
-- [ ] Virdee, Satnam. “Racialized Capitalism: An Account of Its Contested Origins and Consolidation.” Sociological Review 67, no. 1 (2019): 3–27.
+* 2.7M temp workers in 2013
+* ⅕ job growth since Great Recession has been in temp sector
+* Largest growth in temp work has been blue collaw
+* Temps earn &lt;25% permanent workers, 2x injuries, less benefits + pensions
 
-Recommended:
+Capital (Piketty)
 
-- [ ] Harvey, David. “Theorizing the Transition.” Chapter 10 in The Condition of Postmodernity. Wiley-Blackwell, 1991. ISBN: 780631162940.
 
-Session 9: How We Got to the Extremes: From the Precariat to the Superwealthy
 
-- [ ] Standing, Guy. “The Precariat.” Chapter 1 in The Precariat: The New Dangerous Class. Bloomsbury Academic, 2016. ISBN: 781474294164. [Preview with Google Books]
+* Looks at dynamics  + distribution of wealth between / within countries since 18th century
+* r>g
+    * “When rate of return on capital significantly exceeds the growth rate of the economy, then it logically follows that inherited wealth grows faster than output and income.”
 
-- [ ] Ogle, Vanessa. “Archipelago Capitalism: Tax Havens, Offshore Money, and the State, 1950s–1970s.” American History Review 122, no. 5 (2017): 1431–58.
 
-- [ ] An Ethnographic Look: Capitalism and Everyday Life
-Session 10: Exploring Social Class in High School
+### Information Ecologies
 
-- [ ] Bettie, Julie. “How Working-Class Chicas Get Working-Class Lives” and “Hard-Living Habitus, Settled-Living Resentment.” Chapters 3 and 4 in Women without Class: Girls, Race, and Identity. University of California Press, 2014. ISBN: 780520280014. [Preview with Google Books]
+Key shifts in media ecologies in the US
 
-Session 11: From Old to New Money
 
-- [ ] Aldrich, Nelson W., Jr. “The Composition of Old Money” and “Class Acts.” Chapters 2 and 3 in Old Money: The Mythology of Wealth in America. Allworth, 1997. ISBN: 781880559642. 
 
-- [ ] Osnos, Evan. “Doomsday Prep for the Super-Rich.” New Yorker, January 30, 2017.
+1. Newspapers shift from working class audiences
+2. Demise of Fairness Doctrine
+3. Rise of cable broadcasts
+4. Tech companies outside regulatory frameworks
 
-Session 12: Race, Class, and Status
+The result has been that media with recognized standards is behind paywalls, and misinformation continues to spread.
 
-- [ ] Lacy, Karyn. “Public Identities: Managing Race in Public Spaces” and “Status-Based Identities: Protecting and Reproducing Middle-Class Status.” Chapters 3 and 4 in Blue Chip Black: Race, Class, and Status in the New Black Middle Class. [Preview with Google Books]
 
-Session 13: Losing Industrial Jobs
+### Nineteenth Century Political Economy
 
-- [ ] Walley, Christine J. “It All Came Tumbling Down: My Father and the Demise of Chicago’s Steel Industry.” Chapter 2 in Exit Zero: Family and Class in Postindustrial Chicago. University of Chicago Press, 2013. ISBN: 780226871806. [Preview with Google Books]
+Adam Smith
 
-- [ ] Dudley, Kathryn Marie. “Badges of Ability.” Chapter 8 in The End of the Line: Lost Jobs, New Lives in Postindustrial America. University of Chicago Press, 1997. ISBN: 780226169101. [Preview with Google Books]
+Karl Marx
 
-Explore website: Southeast Chicago Archive & Storytelling Project (in particular the storyline on the Memorial Day Massacre).
+Periods of EU colonialism
 
-Session 14: The Rise of the “Fissured Workplace”
+1500s-1600s
 
-- [ ] Weil, David. “Vignettes from the Modern Workplace.” Part 1 in The Fissured Workplace: Why Work Became So Bad for So Many and What Can Be Done to Improve It. Harvard University Press, 2017, pp. 1–28. ISBN: 780674975446. [Preview with Google Books]
 
-- [ ] Genoways, Ted. “The Spam Factory’s Dirty Secret.” Mother Jones, July/August 2011.
 
-- [ ] Finnegan, William. “Dignity: Fast Food Workers and a New Form of Labor Activism.” New Yorker, September 8, 2014.
+* Spain, Portugal- control over water routes, search for precious metals
 
-Session 15: Chasing an Innovation Economy: Gig Work, Robots, and Artificial Intelligence
+1600s-1700s
 
-- [ ] Gray, Mary L., and Siddarth Suri. “Introduction: Ghosts in the Machine” and “Humans in the Loop.” In Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass. Harper Business, 2019. ISBN: 781328566249. [Preview with Google Books]
 
-Irani, Lilly. “Justice for ‘Data Janitors’.” Public Books, January 15, 2015.
 
-Recommended:
+* England, France, Dutch plantation economies, slavery, trading companies (ie. East India Trading Company)
 
-- [ ] Rosenblat, Alex. “Introduction: Using an App to Go to Work—Uber as a Symbol of the New Economy,” “Driving as Glamorous Labor: How Uber Uses the Myths of the Sharing Economy,” “Motivations to Drive: How Uber’s System Rewards Full-Time and Recreational Drivers Differently,” and “The Technology Pitch: How Uber Creates Entrepreneurship for the Masses.” In Uberland: How Algorithms Are Rewriting the Rules of Work. University of California Press, 2019. ISBN: 9780520324800. [Preview with Google Books]
+1890s
 
-Capitalism and Its Others
-Session 16: Soviet-Style State Socialism
 
-- [ ] Verdery, Katherine. “What Was Socialism, and Why Did It Fall?” and “A Transition from Socialism to Feudalism? Thoughts on the Postsocialist State.” Chapters 1 and 8 in What Was Socialism, and What Comes Next? Princeton University Press,1996. ISBN: 780691011325. [Preview with Google Books]
 
-Session 17: The Nordic Model
+* Peak EU colonialism, Scramble for Africa
 
-- [ ] Partanen, Anu. “In the Land of the Free: Becoming American.” Chapter 1 in The Nordic Theory of Everything: In Search of a Better Life. Harper Paperbacks, 2017. ISBN: 780062316554. [Preview with Google Books]
+Wealth of Nations 
 
-Read two other chapters (your choice) from The Nordic Theory of Everything: In Search of a Better Life.
 
-Session 18: The View from Post-Colonial Regions
 
-- [ ] Donham, Donald L. “The Metanarrative of Modernity in Ethiopia: 1974,” “Revolution within a Revolution: Divine Kings and Zemecha Students in Maale,” and “Marxist Modernism at the Ethiopian Center: Cold War Deterritorializations.” Chapters 1, 2, and 6 in Marxist Modern: An Ethnographic History of the Ethiopian Revolution. University of California Press, 1999. ISBN: 780520213296. [Preview with Google Books]
+1. What makes some nations wealthier than others
+2. What impact does the division of labor have/ Why does the division of labor intensify in certain settings?
+3. Why do people engage in “truck, barter, and exchange”?
+4. How/Why did the user of money arise?
+5. What is the difference between “value in use” and “value in exchange”? (pg. 34)
+6. Is “capitalism” positive or negative for Smith?
 
-Session 19: Varieties of “Welfare” States
+Taxes
 
-- [ ] Allison, Anne. “From Lifelong to Liquid Japan” and “Ordinary Refugeeism: Poverty, Precarity, Youth.” Chapters 2 and 3 in Precarious Japan. Duke University Press Books, 2013. ISBN: 780822355625. [Preview with Google Books]
+Invisible hand
 
-Capitalism On the Front Lines
-Session 20: Wall Street and Finance Capitalism
+Critique of mercantilism
 
-- [ ] Ho, Karen.“Biographies of Hegemony: The Culture of Smartness and the Recruitment and Construction of Investment Bankers,” “Wall Street’s Orientation: Exploitation, Empowerment, and the Politics of Hard Work,” and “Liquid Lives, Compensation Schemes, and the Making of (Unsustainable) Financial Markets.” Chapters 1, 2, and 6 in Liquidated: An Ethnography of Wall Street. Duke University Press Books, 2009. ISBN: 780822345992. [Preview with Google Books]
+Free trade
 
-Session 21: The Financial Crisis of 2008
+Communist Manifesto
 
-- [ ] Tett, Gillian. “Preface,” “Preface to the Paperback Edition,” “The Derivatives Dream,” “Dangling Around the Regulators,” “The Dream Team,” “The Cuffs Come Off,” and “Merger Mania.” In Fool’s Gold: How the Bold Dream of a Small Tribe at J.P. Morgan Was Corrupted by Wall Street Greed and Unleashed a Catastrophe. Free Press, 2009. ISBN: 781439100752. [Preview with Google Books]
 
-- [ ] Watch: Frontline: Money, Power and Wall Street, Part 1. Directed by Michael Kirk. Color, 59 min. 2012.
 
-Session 22: An Anthropology of Supply Chains
+1. What are the two broad classes Marx sees society as dividing into/ WHy are they diving in this way?
+2. What is work life like for industrial workers? Why?
+3. How does industry under capitalism differ from “modes of productions in other historical epochs? What makes it distinctive? Is profit legitimate for Marx?
+4. What kinds of relationships between different parts of the world does capitalism encourage?
+5. What does Marx see as the political outcome of the logics and contradictions of capitalism? 
 
-- [ ] Tsing, Anna Lowenhaupt. Selections from The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins. Princeton University Press, 2021. ISBN: 780691220550. [Preview with Google Books]
+What kind of society does each one see capitalism as creating? 
 
-Session 23: Concluding Conversation: Life out of the Ruins
 
-- [ ] Tsing, Anna Lowenhaupt. Selections from The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins. Princeton University Press, 2021. ISBN: 780691220550. [Preview with Google Books]
+### Capitalism and Culture
+
+
+##### Max Weber (1846-1920)
+
+Questions
+
+
+
+* How is a status group different from a class?
+* How many classes are there? Do classes form a “community”?
+* How do political parties relate to status or class groups?
+
+For Weber, what distinguishes capitalism from other historical economic systems:
+
+
+
+* In Capitalism, ALL needs are commodified. Historically, buying some things + living off subsistence
+* Rationalistic capitalist organization of **free wage labor**
+* Interest in gain throughout history, but, under capitalism, a  particular way of looking at profit that emphasizes investing back into enterprises
+* Separation of business from household economics; rationalization of economic activity and investment
+* A particular ethos or spirit
+
+In “The Protestant Ethic and SPirit of Capitalism”- Weber argues
+
+
+
+* Origins of capitalism also emerged fro ideas and beliefs, not just economic relations
+* For Weber, ideas of Calvinists and other Protestant groups that emphasized material prosperity as sign of god’s favor but also discouraged indulgence contributed to creating logics that would underpin capitalism
+* Led Protestants like Ben Franklin to emphasize hard work
+* Ideas are not cause of capitalism, but a factor that can’t be reduced to the economic; history is always multi-causal
+
+
+#### Pierre Bourdieu (1930-2002)
+
+(Lower Class French, philosophy/sociology/anthropology)
+
+Kinds of capital
+
+
+
+* Economic
+* Cultural 
+* Social
+
+
+#### Sherry Ortner (1941-Present)
+
+(Middle class Anthropologist, feminist theorist)
+
+
+
+* How does her take on “class” differ from the other theorists we’ve read?
+* How do gender/sexuality and race relate to class differences? WHat does “displacement” mean for Ortner?
+* How might Ortner’s ideas about “class” be seen as combining the ideas of Weber and Bourdieu?
+
+
+### Debating Capitalism after WWII
+
+
+#### Karl Polanyi
+
+(classic economic historian)
+
+
+
+* Shift to idea of self-regulating market entails a shift from market practices being embedded in society to society being embedded in market
+
+Does Polanyi agree with Smith’s argument that there is a natural human tendency to “truck, barter, and exchange”?
+
+Ways of organizing economic life pre-19th century
+
+
+
+* Reciprocity
+* Redistribution
+* Householding
+
+On markets
+
+
+
+* Historically, people did not depend on markets for the needs of everyday life.
+* Long-distance and local markets were instead often kept separate by local regulators
+* As a result, Polanyi argues “global” markets did NOT evolve from “local” ones as Smith suggests; instead they were brought in by government interventions like mercantilist chart companies
+
+Polanyi argues that treating land, labor, money money as commodities has socially destructive consequences- Why? Why does he call them “fictitious commodities”?
+
+Where self-regulating market societies emerge: 
+
+
+
+* A “double movement” emerges in response
+* Ie. along with the expansion of market society there is an expansion of efforts of society to protect itself from destructive tendencies of seeing land, labor, and money as commodities)
+
+Can you have a “free market” society
+
+
+
+* Polanyi argues that ht idea of a self-regulating market is a myth and that “laissez faire was planned”- what does he mean by this?
+
+
+#### Friedrich von Hayek (1899-1992)
+
+(high class Austrian economist, proponent of free market)
+
+What choices are there?
+
+
+
+* ”Man in a complex society can have no choice but between adjusting himself to what to him must seem the blind forces of the social process [i.e. the market] and obeying the orders of a superior. So long as he knows only the hard discipline of the market, he may well think the direction by some other intelligent human brain preferable [i.e. centralized government]; but, when he tries it, he soon discovers that the former still leaves him at least some choice, while the latter leaves him none, and that it is better to have a choice between several unpleasant alternatives than being coerced into one.” (Individualism: True Or False, pg. 24)
+
+On addressing economic inequality
+
+
+
+* “We can leave each individual to find his own level.”
+* [Individualism.. “also denies government the right to limit what the able or fortunate may achieve. It is equally opposed to any rigid limitation of the position individuals may achieve, whether this power is used to perpetuate inequality or to create equality.”
+* “From the point of view of individualism there would not appear to exist even any justification for making all individuals start on the same level by preventing them from profiting by advantages which they have in no way earned, such as being born to parents who are more intelligent or conscientious than the average.”
+* (Individualism: True Or False, pg. 16 + 30)
+
+Summary of Hayek
+
+
+
+* Sees capitalism as the system that best allows individuals freedom
+* Worries about tendency for governments to become authoritarian out of ostensible desire to do good
+* 
+* 
+
+
+### How We Got to the Extreme: From the Precariat to the Super Wealthy
+
+
+### Exploring Social Class in High School
+
+
+### The Rise of the Fissured Workplace / Chasing an INnovation Economy: Gig Workers, Robots and AI
+
+
+### Soviet-Style State Socialism
+
+
+### The Nordic Model
+
+
+### The View from Post-Colonial Regions
+
+
+### Wall Street and Finance Capitalism/The Financial Crisis of 2008
+
+
+### The FInancial Crisis of 2008/Concluding Conversation
 
